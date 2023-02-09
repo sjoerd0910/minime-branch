@@ -1,0 +1,39 @@
+body{
+    background-color: antiquewhite;
+    padding: 20px;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 24pt;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 16pt;
+    margin-top: 15px;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 14pt;
+    margin-top: 10px;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top:7px;
+
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+#mola{
+
+}
